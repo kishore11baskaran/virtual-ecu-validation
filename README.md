@@ -105,3 +105,6 @@ The tests validate the simulated vehicle behavior, ECU data handling, sensor upd
 The Virtual ECU Validation project is complete and all automated tests are passing.
 
 **Test result: 26 passed**
+```bash
+git clone https://github.com/kishore11baskaran/virtual-ecu-validation.git
+cd virtual-ecu-validation

@@ -108,3 +108,9 @@ The Virtual ECU Validation project is complete and all automated tests are passi
 ```bash
 git clone https://github.com/kishore11baskaran/virtual-ecu-validation.git
 cd virtual-ecu-validation
+## Project Status
+
+- Automated test suite: **26 tests passed**
+- Continuous integration: **GitHub Actions passing**
+- Python-based vehicle, engine, sensor, and ECU simulation
+- Diagnostic fault detection and monitoring
